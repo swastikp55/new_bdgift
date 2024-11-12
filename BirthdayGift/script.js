@@ -1,8 +1,6 @@
 // Open message page with transition
 function openMessage() {
     // Set a flag to indicate that the gift was opened
-    sessionStorage.setItem("giftOpened", "true");
-    document.body.classList.add("split-exit");
     setTimeout(() => {
       window.location.href = "message.html";
     }, 1000); // Delay for the split animation
