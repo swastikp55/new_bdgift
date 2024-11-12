@@ -1,9 +1,8 @@
 // Open message page with transition
 function openMessage() {
-    // Set a flag to indicate that the gift was opened
     setTimeout(() => {
-      window.location.href = "message.html";
-    }, 1000); // Delay for the split animation
+      window.location.href = "./message.html";
+    }, 1000);
 }
 
 //Party poppers on message page
