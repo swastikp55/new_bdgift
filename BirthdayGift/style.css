@@ -13,7 +13,7 @@
     justify-content: center;
     /* background-color: red; */
     font-family: "Leckerli One", cursive;
-    background-image: url('/mediafiles/birthday-party-items-green-background-with-colorful-confetti.jpg'); 
+    background-image: url('./mediafiles/birthday-party-items-green-background-with-colorful-confetti.jpg'); 
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -71,7 +71,7 @@
 #message-page-body{
     width: 100%;
     height: 100vh;
-    background-image: url('/mediafiles/roses-frame-3176667_960_720.jpg'); 
+    background-image: url('./mediafiles/roses-frame-3176667_960_720.jpg'); 
     background-size: cover;
     /* background-repeat: no-repeat; */
     background-position: center;
